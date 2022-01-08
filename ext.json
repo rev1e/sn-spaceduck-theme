@@ -1,0 +1,22 @@
+{
+	"identifier": "rev1e.sn-spaceduck-theme",
+	"name": "Spaceduck Theme",
+	"content_type": "SN|Theme",
+	"area": "themes",
+	"version": "0.1",
+	"description": "An intergalactic space theme",
+
+	"url": "https://cdn.jsdelivr.net/gh/rev1e/sn-spaceduck-theme@0.1/style.css",
+	"download_url": "https://github.com/rev1e/sn-spaceduck-theme/archive/0.1.zip",
+	"latest_url": "https://cdn.jsdelivr.net/gh/rev1e/sn-spaceduck-theme/ext.json",
+	"marketing_url": "https://github.com/rev1e/sn-spaceduck-theme",
+
+	"dock_icon": {
+		"type": "circle",
+		"background_color": "#0f111b",
+		"foreground_color": "#ecf0c1",
+		"border_color": "#7a5ccc"
+	},
+
+	"statusBar": "dark-content"
+}

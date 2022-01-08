@@ -1,0 +1,62 @@
+:root {
+	--foreground-color: #ecf0c1;
+	--background-color: #0f111b;
+
+	--red: #e33400;
+	--orange: #e39400;
+	--green: #5ccc96;
+	--yellow: #f2ce00;
+	--purple: #b3a1e6;
+	--purple2: #7a5ccc;
+	--dark-purple: #30365f;
+	--dark-purple2: #686f9a;
+	--cyan: #686f9a;
+	--magenta: #ce6f8f;
+
+	--visual-selection: #1b1c36;
+	--cursor-line: #16172d;
+
+	--highlight-color: var(--cursor-line);
+	--border-color: var(--cursor-line);
+
+	--sn-component-foreground-color: var(--foreground-color);
+	--sn-component-background-color: var(--background-color);
+	--sn-component-foreground-highlight-color: var(--highlight-color);
+	--sn-component-outer-border-color: var(--foreground-color);
+	--sn-component-inner-border-color: var(--foreground-color);
+
+	--sn-stylekit-shadow-color: #000000;
+	--sn-stylekit-info-color: var(--dark-purple);
+	--sn-stylekit-info-contrast-color: var(--foreground-color);
+
+	--sn-stylekit-neutral-color: var(--dark-purple);
+	--sn-stylekit-neutral-contrast-color: var(--foreground-color);
+	--sn-stylekit-success-color: var(--green);
+	--sn-stylekit-success-contrast-color: var(--green);
+	--sn-stylekit-warning-color: var(--orange);
+	--sn-stylekit-warning-contrast-color: var(--red);
+	--sn-stylekit-danger-color: var(--red);
+	--sn-stylekit-danger-contrast-color: var(--red);
+	--sn-stylekit-editor-background-color: var(--background-color);
+	--sn-stylekit-editor-foreground-color: var(--foreground-color);
+	--sn-stylekit-background-color: var(--background-color);
+	--sn-stylekit-foreground-color: var(--foreground-color);
+	--sn-stylekit-border-color: var(--border-color);
+	--sn-stylekit-contrast-background-color: var(--visual-selection);
+	--sn-stylekit-contrast-foreground-color: var(--foreground-color);
+	--sn-stylekit-contrast-border-color: var(--border-color);
+	--sn-stylekit-secondary-background-color: var(--visual-selection);
+	--sn-stylekit-secondary-foreground-color: var(--foreground-color);
+	--sn-stylekit-secondary-border-color: var(--border-color);
+	--sn-stylekit-secondary-contrast-background-color: var(--cursor-line);
+	--sn-stylekit-secondary-contrast-foreground-color: var(--foreground-color);
+	--sn-stylekit-secondary-contrast-border-color: var(--border-color);
+	--sn-stylekit-paragraph-text-color: var(--dark-purple);
+	--sn-desktop-titlebar-bg-color: var(--background-color);
+	--sn-desktop-titlebar-border-color: var(--border-color);
+	--sn-desktop-titlebar-ui-color: var(--foreground-color);
+	--sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
+	--sn-stylekit-scrollbar-track-border-color: var(--border-color);
+	--sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
+	--sn-stylekit-menu-border: 1px solid var(--border-color);
+}
