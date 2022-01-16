@@ -3,11 +3,11 @@
 	"name": "Spaceduck Theme",
 	"content_type": "SN|Theme",
 	"area": "themes",
-	"version": "0.1",
+	"version": "0.2",
 	"description": "An intergalactic space theme",
 
-	"url": "https://cdn.jsdelivr.net/gh/rev1e/sn-spaceduck-theme@0.1/style.css",
-	"download_url": "https://github.com/rev1e/sn-spaceduck-theme/archive/0.1.zip",
+	"url": "https://cdn.jsdelivr.net/gh/rev1e/sn-spaceduck-theme@0.2/style.css",
+	"download_url": "https://github.com/rev1e/sn-spaceduck-theme/archive/0.2.zip",
 	"latest_url": "https://cdn.jsdelivr.net/gh/rev1e/sn-spaceduck-theme/ext.json",
 	"marketing_url": "https://github.com/rev1e/sn-spaceduck-theme",
 
